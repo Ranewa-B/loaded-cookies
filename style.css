@@ -1,0 +1,89 @@
+/*Reset default browser spacing */
+body {
+ margin: 0;
+ font-family: ' Century Gothic;
+ background-color: #f4f4f4;
+
+}
+
+/*Header */
+header {
+ background-color:  #a7c7e7;
+ color:  white 
+ padding:  20px;
+text-align: center;
+
+}
+
+/*navigation */
+nav {
+     background-color: #cde3f9
+     padding 10px;
+     text-align: center;
+
+}
+
+nav a{
+      color: #315168
+      text-decoration none;
+      margin: 0 15px;
+      font-weight bold;
+
+}
+
+nav a:hover {
+              text-decoration: underline;
+
+}
+
+/*Main content */
+main{
+     padding: 20px
+
+}
+
+/*Sections*/
+section P{
+          Background-color #dfe9f0;
+          Padding: 15px;
+          Margin-bottom: 20px
+          border-radius; 5px;
+
+}
+
+/*Cookie Flavor*/
+.cookie {
+         border: 1px solid #a7c7e7; 
+         Padding: 10px;
+         Margin-top: 10px;
+         Border-radius: 5px;
+
+}
+
+/*footer*/
+footer {
+        background-color: #a7c7e7;
+        color: white;
+        text-align: center;
+        padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
